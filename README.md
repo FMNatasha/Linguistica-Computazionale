@@ -54,11 +54,6 @@ Questo progetto nasce come estensione del lavoro svolto nella mia tesi di laurea
   - Le tematiche hanno mostrato un buon livello di clustering nei casi fortemente marcati
   - Le emozioni risultano la dimensione più difficile da automatizzare
 
-### Visualizzazioni:
-- Grafici a barre e radar per confronto
-- Matrici di similarità
-- Grafici dimensionali (PCA/TSNE)
-
 
 ## Riferimenti
 - Tesi triennale: "Mascolinità in crisi: l'influenza delle app di dating sul fenomeno Incel e le dinamiche di genere contemporanee"  
@@ -66,5 +61,4 @@ Questo progetto nasce come estensione del lavoro svolto nella mia tesi di laurea
 
 Developed by **Maria Natasha Fragalà** 
 [LinkedIn](https://www.linkedin.com/in/marianatasha-fragalà)
-
 © 2025 Università degli studi di Catania — For educational purposes.
