@@ -1,6 +1,7 @@
 # Analisi del Sentiment e Riconoscimento Tematiche/Emozioni su Forum Online
 
-**Corso:** Linguistica Computazionale – Modulo B  
+**Materia:** Linguistica Computazionale – Modulo B  
+**Corso di laurea:** LM-43
 **Università:** Università di Catania  
 **Anno Accademico:** 2024/2025  
 
