@@ -59,7 +59,6 @@ Questo progetto nasce come estensione del lavoro svolto nella mia tesi di laurea
 - Tesi triennale: "Mascolinità in crisi: l'influenza delle app di dating sul fenomeno Incel e le dinamiche di genere contemporanee"  
 - Paper: *"Tinder is overrated": Neoliberal Affective Economies in an Italian Incel Forum* [CMC 2025 – Bayreuth](https://www.cmc2025.uni-bayreuth.de/en/index.html)
 
-Developed by **Maria Natasha Fragalà** 
-[LinkedIn](https://www.linkedin.com/in/marianatasha-fragalà)  
----
-© 2025 Università degli studi di Catania — For educational purposes.
+🙋‍♀️ Developed by **Maria Natasha Fragalà**    
+[LinkedIn](https://www.linkedin.com/in/marianatasha-fragalà)      
+© 2025 Università degli studi di Catania — For educational purposes.  
