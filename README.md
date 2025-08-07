@@ -60,5 +60,6 @@ Questo progetto nasce come estensione del lavoro svolto nella mia tesi di laurea
 - Paper: *"Tinder is overrated": Neoliberal Affective Economies in an Italian Incel Forum* [CMC 2025 – Bayreuth](https://www.cmc2025.uni-bayreuth.de/en/index.html)
 
 Developed by **Maria Natasha Fragalà** 
-[LinkedIn](https://www.linkedin.com/in/marianatasha-fragalà)
+[LinkedIn](https://www.linkedin.com/in/marianatasha-fragalà)  
+---
 © 2025 Università degli studi di Catania — For educational purposes.
